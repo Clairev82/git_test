@@ -1,0 +1,1 @@
+This is Claire's First GIT project
